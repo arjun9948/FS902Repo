@@ -10,6 +10,6 @@ public class AppTest {
 		System.out.println("sum:"+ ar.sum(20, 40));
 		System.out.println("sub:"+ar.sub(20, 30));
 		System.out.println("-----------------------");
-		System.out.println("mul:"+ar.mul(10, 30));
+		System.out.println("mul:"+ar.mul(10, 30));     //5678
 	}
 }
